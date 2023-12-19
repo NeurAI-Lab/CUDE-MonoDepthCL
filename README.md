@@ -5,7 +5,7 @@
 [Arnav Varma](https://scholar.google.nl/citations?user=JcqW3_QAAAAJ&hl=en&oi=ao), 
 [Elahe Arani](https://scholar.google.nl/citations?user=e_I_v6cAAAAJ&hl=en&oi=ao) and 
 [Bahram Zonooz](https://scholar.google.com/citations?hl=en&user=FZmIlY8AAAAJ).
---
+
 ![alt text](assets/CUDE.png "CUDE")
 ![alt text](assets/MonodepthCL.png "MonodepthCL")
 We propose the CUDE framework for Continual Unsupervised Depth estimation with multiple tasks with domain and depth-range shifts, across various weather and lighting conditions, and sim-to-real, indoor-to-outdoor, outdoor-to-indoor scenarios. We also propose MonodepthCL - a method to mitigate catastrophic forgeting in CUDE. 
